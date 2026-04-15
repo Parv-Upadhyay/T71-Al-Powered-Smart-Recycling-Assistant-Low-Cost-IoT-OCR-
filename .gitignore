@@ -44,6 +44,11 @@ Thumbs.db
 *.env.local
 *.env.production
 
+# Project Specific Secrets
+mobile_app/recycle_easy/android/app/google-services.json
+mobile_app/recycle_easy/lib/firebase_options.dart
+ai_engine/claude_agent/.env
+
 # Node
 node_modules/
 npm-debug.log*
